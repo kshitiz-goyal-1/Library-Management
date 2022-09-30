@@ -1,0 +1,24 @@
+Default Password is "Kshitiz Goyal"
+
+
+1. Password Protected
+
+2.  Add Books
+In 6 Categories
+
+3. Delete Books
+
+4. Search Books
+a)	Search by ID
+b)	Search by Book Name
+
+5.  Issue Books
+
+a)	Issue a book
+b)	View Issued Books
+c)	Search Issued Books
+d)	Remove Issued Books
+
+6. View Saved Books
+
+7. Edit Books
